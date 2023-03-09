@@ -30,7 +30,7 @@ This project is used library python:
 [See demo](https://github.com/Omrani-Sina/VoiceGenerator/tree/main/demo)
 
 
-## Voices
+## Examples Voices
 
 **English**
 
